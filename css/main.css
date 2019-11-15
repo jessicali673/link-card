@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
   background-color: #f0eee8;
   font-size: 1rem;
@@ -17,6 +17,7 @@ body {
   display: block;
   background-color: #cabdb2;
 }
+
 .link-card {
   color: #512200;
   text-decoration: none;
@@ -55,12 +56,12 @@ dl {
   text-align: center;
   margin: .8rem 0 .8rem 5rem;
   font-weight: 900;
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   font-size: 1.1em;
 }
 
 .link-card h2 {
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   font-weight: 900;
   margin: 1rem 0;
 }
