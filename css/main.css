@@ -15,7 +15,7 @@ body {
   border-radius: 8px;
   padding: 0 1rem;
   display: block;
-  background-color: #cabdb2;
+  background-color: #dcd4cd;
 }
 
 .link-card {
@@ -47,7 +47,7 @@ dl {
   border-bottom: 2px solid #9a816d;
 }
 
-.btn {
+a .btn {
   padding: .4em .75em .5em;
   background-color: #785439;
   border-radius: 8px;
